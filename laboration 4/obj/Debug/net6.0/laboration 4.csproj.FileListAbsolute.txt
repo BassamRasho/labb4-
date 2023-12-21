@@ -1,0 +1,14 @@
+C:\Users\Bassa\OneDrive\Dokument\Visual Studio 2022\Labb (1)\laboration 4\laboration 4\obj\Debug\net6.0\laboration 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bassa\OneDrive\Dokument\Visual Studio 2022\Labb (1)\laboration 4\laboration 4\obj\Debug\net6.0\laboration 4.AssemblyInfoInputs.cache
+C:\Users\Bassa\OneDrive\Dokument\Visual Studio 2022\Labb (1)\laboration 4\laboration 4\obj\Debug\net6.0\laboration 4.AssemblyInfo.cs
+C:\Users\Bassa\OneDrive\Dokument\Visual Studio 2022\Labb (1)\laboration 4\laboration 4\obj\Debug\net6.0\laboration 4.csproj.CoreCompileInputs.cache
+C:\Users\Bassa\OneDrive\Dokument\Visual Studio 2022\Labb (1)\laboration 4\laboration 4\bin\Debug\net6.0\laboration 4.exe
+C:\Users\Bassa\OneDrive\Dokument\Visual Studio 2022\Labb (1)\laboration 4\laboration 4\bin\Debug\net6.0\laboration 4.deps.json
+C:\Users\Bassa\OneDrive\Dokument\Visual Studio 2022\Labb (1)\laboration 4\laboration 4\bin\Debug\net6.0\laboration 4.runtimeconfig.json
+C:\Users\Bassa\OneDrive\Dokument\Visual Studio 2022\Labb (1)\laboration 4\laboration 4\bin\Debug\net6.0\laboration 4.dll
+C:\Users\Bassa\OneDrive\Dokument\Visual Studio 2022\Labb (1)\laboration 4\laboration 4\bin\Debug\net6.0\laboration 4.pdb
+C:\Users\Bassa\OneDrive\Dokument\Visual Studio 2022\Labb (1)\laboration 4\laboration 4\obj\Debug\net6.0\laboration 4.dll
+C:\Users\Bassa\OneDrive\Dokument\Visual Studio 2022\Labb (1)\laboration 4\laboration 4\obj\Debug\net6.0\refint\laboration 4.dll
+C:\Users\Bassa\OneDrive\Dokument\Visual Studio 2022\Labb (1)\laboration 4\laboration 4\obj\Debug\net6.0\laboration 4.pdb
+C:\Users\Bassa\OneDrive\Dokument\Visual Studio 2022\Labb (1)\laboration 4\laboration 4\obj\Debug\net6.0\laboration 4.genruntimeconfig.cache
+C:\Users\Bassa\OneDrive\Dokument\Visual Studio 2022\Labb (1)\laboration 4\laboration 4\obj\Debug\net6.0\ref\laboration 4.dll
